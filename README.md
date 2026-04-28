@@ -21,4 +21,4 @@ Problem Solver: From automating manual financial tracking to analyzing business 
 To leverage data-driven insights to help brands grow faster and smarter. I am constantly learning new ways to refine my analytical craft and am always open to collaborating on projects that involve data storytelling and business strategy.
 
 
-## Project 1: Expense Tracker. Your wealth saviour 
+### Project 1: Expense Tracker. Your wealth saviour.  
