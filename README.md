@@ -19,13 +19,13 @@ Additional Skills: Generative AI, Prompt Engineering, Java (Fundamentals), HTML,
 
 ## 💼 Professional Experience  
 
-### Marketing Data Analyst | Mavix IT Solutions, PuneJuly 2025 – Present   
+### Marketing Data Analyst | Mavix IT Solutions, Pune [July 2025 – Present]   
 Analyze web analytics and research data to drive strategic marketing and ROI decisions.  Interpret complex datasets in a startup environment to identify growth trends.  
 
-### MIS Executive | Greenshield Constrochem (GCPL), ChakanFeb 2025 – June 2025   
+### MIS Executive | Greenshield Constrochem (GCPL), Chakan [Feb 2025 – June 2025]   
 Developed high-level MIS reports and utilized AutoCAD for operational efficiency.  Streamlined machinery maintenance data and production tracking to support management.  
 
-### Technical Intern | ARAI, Kothrud, PuneFeb 2024 – April 2024   
+### Technical Intern | ARAI, Kothrud, Pune [Feb 2024 – April 2024]   
 Led feasibility and data-driven design for retrofitting ICE vehicles with electric powertrains.  Analyzed technical performance metrics to support zero-tailpipe emission initiatives.  
 
 ## 🚀 Key Projects  
