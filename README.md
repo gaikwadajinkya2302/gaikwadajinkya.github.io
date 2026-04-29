@@ -30,8 +30,8 @@ Led feasibility and data-driven design for retrofitting ICE vehicles with electr
 
 ## 🚀 Key Projects  
 
-### 💰 Expense Tracker: Your Wealth Saviour 
-(https://github.com/gaikwadajinkya2302/Project-1/blob/586a68006b5299202230c25e33b4f5b41bfc81eb/ExpenseTracker.py)
+### 💰 Expense Tracker: Your Wealth Saviour (https://github.com/gaikwadajinkya2302/Project-1/blob/586a68006b5299202230c25e33b4f5b41bfc81eb/ExpenseTracker.py)
+
 A functional financial management tool built with Core Python to help users monitor spending and preserve wealth. This project focuses on clean, efficient logic using fundamental programming constructs rather than external libraries.
 1. Logic & Control: Utilizes While loops for persistent user interaction and If/Else statements for precise transaction categorization.
 2. Data Structures: Leverages Python Lists and Dictionaries to store, retrieve, and organize real-time financial data.
