@@ -30,8 +30,11 @@ Led feasibility and data-driven design for retrofitting ICE vehicles with electr
 
 ## 🚀 Key Projects  
 
-1. Automatic Helmet & Numberplate Detection (Computer Vision)Developed a real-time system using YOLO and OCR to process video feeds and extract vehicle registration data.  Cleaned and validated detection logs to ensure 95%+ accuracy in identifying safety violations.
-2. Energy Consumption AnalyticsEngineered an automated sensor-based system and analyzed usage patterns to optimize energy consumption.  Leveraged data-backed logic to reduce energy wastage by 78% through automated resource allocation.
+### 💰 Expense Tracker: Your Wealth Saviour 
+A functional financial management tool built with Core Python to help users monitor spending and preserve wealth. This project focuses on clean, efficient logic using fundamental programming constructs rather than external libraries.
+1. Logic & Control: Utilizes While loops for persistent user interaction and If/Else statements for precise transaction categorization.
+2. Data Structures: Leverages Python Lists and Dictionaries to store, retrieve, and organize real-time financial data.
+3. Business Value: Designed with a "Data Analyst" mindset to transform daily expenses into organized summaries, identifying spending trends at a glance.
 
 ## 🎓 Education & Certifications  
 
