@@ -1,5 +1,3 @@
-# Ajinkya Gaikwad 
-
 ## 💼 Professional Summary
 
 Entry-level Data Analyst with hands-on experience in analyzing datasets using SQL, Python, and Excel to uncover trends and support data-driven decisions. Built interactive dashboards in Power BI and performed data cleaning, transformation, and visualization across multiple projects. Strong focus on turning raw data into meaningful insights to solve real-world problems.  
